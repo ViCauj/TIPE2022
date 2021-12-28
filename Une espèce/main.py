@@ -288,8 +288,5 @@ ani.save(f, writer=writergif)
 plt.show()
 plt.show()
 
-### TODO :
-### .pb sur des pixels lors du fastMarching
-
             
         
